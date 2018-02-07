@@ -1,0 +1,107 @@
+<core:View xmlns:core="sap.ui.core" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m"
+		controllerName="employe-details-in-tile.main" xmlns:html="http://www.w3.org/1999/xhtml" 	xmlns:f="sap.f">
+	<Page title="Title">
+		<content>
+		
+		
+		
+			 <GenericTile  frameType="TwoByOne" class="size" headerImage="image/img1.jpg"
+		 header="PRASHANTH" subheader="Designation: SAPui5  Consultant" >
+		<TileContent>
+			<VBox>
+			<HBox>
+				 	<!-- <f:Avatar
+						src="image/img1.jpg"
+						displaySize="M"
+						>
+					</f:Avatar> -->
+		   <Label text="i have 2+ years of experience in Sapui5 i done 
+		   two projects end to end"/>
+			 <Label text=" i have done 
+		   two projects end to end"/>
+			
+			
+			
+			
+			</HBox>
+			
+			</VBox>
+			
+		
+			
+		</TileContent>
+	</GenericTile>
+	
+		 <GenericTile  frameType="TwoByOne" class="size"
+		 header="PRASHANTH" subheader="Designation: SAPui5  Consultant" >
+		<TileContent >
+			<VBox>
+			<HBox>
+				 	<f:Avatar
+						src="image/img1.jpg"
+						displaySize="M"
+						>
+					</f:Avatar>
+		   <Label text="i have 2+ years of experience in Sapui5 i done 
+		   two projects end to end"/>
+			 <Label text=" i have done 
+		   two projects end to end"/>
+			
+			
+			
+			
+			</HBox>
+			
+			</VBox>
+			
+		
+			
+		</TileContent>
+	</GenericTile>
+	
+
+	
+		 <GenericTile  frameType="TwoByOne" class="size"
+		 header="PRASHANTH" subheader="Designation: SAPui5  Consultant" >
+		<TileContent >
+		
+			<HBox>
+				 	<f:Avatar
+						src="image/img1.jpg"
+						displaySize="M"
+						>
+					</f:Avatar>
+		   <Label text="i have 2+ years of experience in Sapui5 i done 
+		   two projects end to end"/>
+			 <Label text=" i have done 
+		   two projects end to end"/>
+			
+			</HBox>
+		</TileContent>
+	</GenericTile>
+	 <GenericTile  frameType="TwoByOne" class="size"
+		 header="PRASHANTH" subheader="Designation: SAPui5  Consultant" >
+		<TileContent >
+		
+			<HBox>
+				 	<f:Avatar
+						src="image/img1.jpg"
+						displaySize="M"
+						>
+					</f:Avatar>
+		   <Label text="i have 2+ years of experience in Sapui5 i done 
+		   two projects end to end"/>
+			 <Label text=" i have done 
+		   two projects end to end"/>
+			
+			</HBox>
+		</TileContent>
+	</GenericTile>
+	
+	
+	
+	
+	
+		</content>
+	</Page>
+</core:View>
